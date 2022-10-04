@@ -1,8 +1,12 @@
 
 # Warning / Disclaimer
-``` Not affiliated with Dilena & Thycotic
+
+Not affiliated with Dilena & Thycotic
 This is not the official repo of this library, it's being kept public for archive and automation build purposes
+
 Current project resides in [here] (https://github.com/DelineaXPM/python-tss-sdk)
+
+
 
 > Over the past year, two privileged access management leaders—Centrify and Thycotic— combined to bring to market a comprehensive platform uniquely built to enable, empower, and secure the modern, hybrid enterprise.
 >
